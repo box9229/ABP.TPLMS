@@ -35,3 +35,5 @@ Create & download your project from https://aspnetboilerplate.com/Templates
 # License
 
 [MIT](LICENSE).
+abp(net core)+easyui+efcore實現倉儲管理系統目錄
+https://www.cnblogs.com/chillsrc/p/11231284.html
